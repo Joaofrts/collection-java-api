@@ -1,4 +1,4 @@
-package main.java.list.ex;
+package main.java.list.basico.ex;
 
 import java.util.ArrayList;
 import java.util.List;

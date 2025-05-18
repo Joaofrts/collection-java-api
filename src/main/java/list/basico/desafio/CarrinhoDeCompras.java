@@ -1,10 +1,12 @@
-package main.java.list.desafio;
+package main.java.list.basico.desafio;
 
 import java.util.ArrayList;
 import java.util.List;
 
 public class CarrinhoDeCompras {
-    private final List<Item> listaDeCompras;
+        private final List<Item> listaDeCompras;
+
+
 
     public CarrinhoDeCompras() {
         this.listaDeCompras = new ArrayList<>();

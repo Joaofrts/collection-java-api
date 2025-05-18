@@ -1,4 +1,4 @@
-package main.java.list.desafio;
+package main.java.list.basico.desafio;
 
 public class Item {
     private String nome;
