@@ -1,5 +1,6 @@
 package main.java.set.basico.ex;
 
+import java.util.Locale;
 import java.util.Objects;
 
 public class Convidado {
@@ -18,6 +19,7 @@ public class Convidado {
     public int getCodigoConvite() {
         return codigoConvite;
     }
+
 
     @Override
     public boolean equals(Object o) {
